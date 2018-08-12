@@ -24,7 +24,7 @@ class AuthCheck extends Component {
   componentDidMount() {
     if(this.props.auth.isAuthenticated()) {
       this.props.login_success()
-      this.props.profile_success(this.props.auth.userProfile)
+      this.props.db_profile_success(this.props.auth.userProfile)
       this.send_profile_to_db(this.props.auth.userProfile)
     } else {
       this.props.login_failure()
