@@ -6,6 +6,9 @@ download or git clone the project files.
 
 ## cd into both Project Directories in 2 different terminal windows and then install dependencies
 
+The "Client" directory contains the react code. The "Server" directory contains the code for the node.js express app. This project also requries a PSQL database to run. 
+
+
 #### 1st window
 `cd Client`
 
