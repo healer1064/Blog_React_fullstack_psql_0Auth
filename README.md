@@ -38,9 +38,10 @@ https://www.postgresql.org/
 (devstart runs nodemon at localhost:5000)
 
 
-### Open the PSQL shell and login to PSQL
+### Set up PSQL
 
 <ol>
+  <li>Open the PSQL shell and login to PSQL</li>
   <li>Create a new PSQL database if you have not already done so. </li>
   <li>Simply copy the SQL code in the Server/main/schema.sql file and paste it in as commands into the PSQL shell.  </li> 
   <li> In the Server/main/db.js file replace the code with the login info for your own PSQL database. </li>
