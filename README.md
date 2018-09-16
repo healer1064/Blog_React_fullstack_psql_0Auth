@@ -4,7 +4,7 @@ This Project was bootstrapped with create-react-app
 
 download or git clone the project files.
 
-## cd into both Project Directories in 2 different terminal windows and then install dependencies
+## cd into both Project Directories in 2 different terminal windows and then install the dependencies
 
 The "Client" directory contains the React code. The "Server" directory contains the code for the node.js express server. This project also requries a PSQL database to run. 
 
@@ -25,6 +25,7 @@ https://www.postgresql.org/
 #### 2nd window
 `npm install` 
 
+<br />
 ### Run both the server and client at the same time
 
 #### 1st window 
