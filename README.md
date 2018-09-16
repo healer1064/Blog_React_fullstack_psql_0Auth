@@ -4,26 +4,25 @@ This Project was bootstrapped with create-react-app
 
 download or git clone the project files.
 
-## cd into both Project Directories in 2 terminal windows
-## then install dependencies
+## cd into both Project Directories in 2 differnt terminal windows and then install dependencies
 
-### 1st window
+#### 1st window
 `cd Client`
 
-### 2nd window
+#### 2nd window
 `cd Server`
 
-### 1st window
+#### 1st window
 `npm install` 
 
-### 2nd window
+#### 2nd window
 `npm install` 
 
-## Run both the server and client at the same time
+### Run both the server and client at the same time
 
-### 1st window 
+#### 1st window 
 `npm start` 
 
-### 2nd window 
+#### 2nd window 
 `npm run devstart` 
 (devstart runs nodemon)
