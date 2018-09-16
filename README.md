@@ -26,6 +26,7 @@ https://www.postgresql.org/
 `npm install` 
 
 <br />
+
 ### Run both the server and client at the same time
 
 #### 1st window 
