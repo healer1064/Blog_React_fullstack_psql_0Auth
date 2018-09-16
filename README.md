@@ -48,8 +48,8 @@ https://www.postgresql.org/
   <li> After setting up the PSQL database and making the required adjustments in the db.js file, the app will be fully functional. </li> 
 </ol>
 
-### (Optional) Setup auth0 
-You can optionally create your own auth0 app and subsitute the credentials in the Client/utils/auth.js file. You can also just use the credentials I have provided. 
+### (Optional) Set up auth0 
+You can optionally create your own auth0 app and subsitute the credentials in the Client/utils/auth.js file. You can also just use the default credentials I have provided. 
 
 
 <br />
