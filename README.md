@@ -8,7 +8,7 @@ download or git clone the project files.
 
 The "Client" directory contains the React code. The "Server" directory contains the code for the node.js express server. This project also requries a PSQL database to run. 
 
-For intructions on setting up PSQL visit the offical PSQL website:
+For intructions on installing PSQL visit the offical PSQL website:
 <br />
 https://www.postgresql.org/ 
 
