@@ -9,6 +9,7 @@ download or git clone the project files.
 The "Client" directory contains the react code. The "Server" directory contains the code for the node.js express server. This project also requries a setup PSQL database to run. 
 
 For intructions on setting up PSQL visit the offical PSQL website:
+<br />
 https://www.postgresql.org/ 
 
 
@@ -37,7 +38,11 @@ https://www.postgresql.org/
 
 ### Open the PSQL shell and login to PSQL
 Create a new PSQL database if you have not already done so. 
-Simply copy the SQL code in the Server/schema.sql file. 
-
-
-After setting up the PSQL database the app will be fully functional. See the accompanying tutorial linked above for more details. 
+<br />
+Simply copy the SQL code in the Server/main/schema.sql file and paste it in as commands into the PSQL shell.  
+<br />
+In the Server/main/db.js file replace the code with the login info for your own PSQL database. 
+<br />
+After setting up the PSQL database and making the required adjustments in the db.js file, the app will be fully functional. 
+<br />
+See the accompanying tutorial linked above for more details. 
